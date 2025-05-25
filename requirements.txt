@@ -7,8 +7,4 @@ keras==2.15.0
 Pillow==9.5.0
 python-dotenv==1.0.1
 gunicorn==22.0.0
-<<<<<<< HEAD
-firebase-admin
-=======
 uvicorn==0.29.0
->>>>>>> a8133cf559ee61ac3e43d1c03b71fcbb2b4d9814
