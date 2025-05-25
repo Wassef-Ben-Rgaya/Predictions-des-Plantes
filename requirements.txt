@@ -1,6 +1,7 @@
+setuptools>=42
 Flask==2.3.2
 ultralytics==8.0.196
-opencv-python==4.9.0.80  # Updated to the correct version
+opencv-python==4.9.0.80  
 numpy==1.24.3
 tensorflow==2.15.0
 keras==2.15.0
